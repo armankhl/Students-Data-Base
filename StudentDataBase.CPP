@@ -45,13 +45,13 @@ void Order()
     char nxt[2];
 
     cout << "Menu:" << endl
-         << "1 => Enter student info." << endl
-         << "2 => Enter lessons info." << endl
-         << "3 => See average grade." << endl
-         << "4 => Show info." << endl
-         << "5 => Save info." << endl
-         << "6 => Load info." << endl
-         << "7 => Exit." << endl;
+          << "1 => Enter student info" << endl
+         << "2 => Enter lessons" << endl
+         << "3 => Calculate Average" << endl
+         << "4 => Show Data" << endl
+         << "5 => Save Data" << endl
+         << "6 => Load Data" << endl
+         << "7 => Exit" << endl;
 
     cout << endl
          << "Enter your command: ";
